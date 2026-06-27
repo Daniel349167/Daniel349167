@@ -5,7 +5,7 @@
 I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with Java, PHP, JavaScript, and SQL, and I currently focus on cloud-native Java backends, secure APIs, event-driven systems, and automated delivery.
 
 Based in Lima, Peru · Open to remote and hybrid opportunities  
-[Email](mailto:duretae@gmail.com) · [GitHub](https://github.com/Daniel349167)
+[Portfolio](https://daniel349167.github.io/) · [Email](mailto:duretae@gmail.com) · [GitHub](https://github.com/Daniel349167)
 
 ## Selected work
 
