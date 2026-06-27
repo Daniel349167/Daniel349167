@@ -1,8 +1,8 @@
 # Daniel Ureta Espinal
 
-**Backend / Full Stack Developer · Java · Quarkus · Spring Boot**
+**Full Stack Developer · APIs & Integrations · Java · Vue · Laravel**
 
-I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with Java, PHP, JavaScript, and SQL, and I currently focus on cloud-native Java backends, secure APIs, event-driven systems, and automated delivery.
+I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with PHP, JavaScript, Java, and SQL, from interfaces and business logic to integrations, data, and deployment. I currently deepen my cloud-native Java backend skills with secure APIs, event-driven systems, and automated delivery.
 
 Based in Lima, Peru · Open to remote and hybrid opportunities  
 [Portfolio](https://daniel349167.github.io/) · [Email](mailto:duretae@gmail.com) · [GitHub](https://github.com/Daniel349167)
