@@ -2,7 +2,7 @@
 
 **Full Stack Developer · APIs & Integrations · Java · Vue · Laravel**
 
-I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with PHP, JavaScript, Java, and SQL, from interfaces and business logic to integrations, data, and deployment. I currently deepen my cloud-native Java backend skills with secure APIs, event-driven systems, and automated delivery.
+I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with PHP, JavaScript, Java, and SQL, from interfaces and business logic to integrations, data, and deployment. My background also includes client-facing electronic-invoicing integration analysis: validating API payloads, investigating incidents, and coordinating technical resolution.
 
 Based in Lima, Peru · Open to remote and hybrid opportunities  
 [Portfolio](https://daniel349167.github.io/) · [Email](mailto:duretae@gmail.com) · [GitHub](https://github.com/Daniel349167)
@@ -11,15 +11,13 @@ Based in Lima, Peru · Open to remote and hybrid opportunities
 
 | Project | What it demonstrates |
 | --- | --- |
+| [FiscalFlow](https://github.com/Daniel349167/fiscalflow-integration-platform) | Full Stack integration workflow with Spring Boot, Vue 3, PostgreSQL, idempotency, transactional outbox, retries, dead-letter handling, audit history, Testcontainers, and E2E Docker validation. |
 | [LedgerGuard](https://github.com/Daniel349167/ledgerguard-platform) | Quarkus microservices, Kafka/Redpanda, PostgreSQL, transactional outbox, idempotency, observability, Docker, and Kubernetes. |
 | [TenantFlow](https://github.com/Daniel349167/tenantflow-saas-api) | Spring Boot multi-tenant SaaS API, hexagonal architecture, Keycloak/OAuth2, RBAC, Flyway, Testcontainers, and RFC 9457 errors. |
-| [Receipt Intelligence](https://github.com/Daniel349167/receipt-intelligence-platform) | Receipt-processing platform with a Next.js interface, Python services, OCR/AI orchestration, Docker, and end-to-end tests. |
-| [Supervisor Scheduling Engine](https://github.com/Daniel349167/supervisor-scheduling-engine) | Constraint-based schedule generation, interactive visualization, and export workflows in Vue. |
-| [School Voting Platform](https://github.com/Daniel349167/school-voting-platform) | Nuxt and Supabase application for secure election setup, voter imports, voting, and results. |
-| [Homomorphic Lending Demo](https://github.com/Daniel349167/homomorphic-lending-demo) | Research-oriented Flask/TenSEAL prototype for encrypted-data processing, with documented limitations and containerized tests. |
+| [Supervisor Scheduling Engine](https://github.com/Daniel349167/supervisor-scheduling-engine) | Constraint-based schedule generation, interactive visualization, and export workflows in React and TypeScript. |
 
 ## Core stack
 
-`Java 17` · `Quarkus` · `Spring Boot` · `REST APIs` · `Kafka` · `PostgreSQL` · `Docker` · `Kubernetes` · `Keycloak/OAuth2` · `OpenTelemetry` · `Testcontainers` · `Vue/Nuxt` · `Angular` · `PHP/Laravel`
+`Java 17` · `Quarkus` · `Spring Boot` · `REST APIs` · `Kafka` · `PostgreSQL` · `Docker` · `Kubernetes` · `Keycloak/OAuth2` · `OpenTelemetry` · `Testcontainers` · `Vue/Nuxt` · `React` · `Angular` · `PHP/Laravel`
 
 I value explicit architecture decisions, reproducible local environments, automated tests, and documentation that explains both capabilities and tradeoffs.
