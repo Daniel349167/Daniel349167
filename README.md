@@ -1,23 +1,23 @@
 # Daniel Ureta Espinal
 
-**Full Stack Developer · APIs & Integrations · Java · Vue · Laravel**
+**Desarrollador Full Stack · Web, móvil y APIs · Laravel · Vue · JavaScript**
 
-I build web, mobile, and API products end to end. I have 5+ years of experience delivering software with PHP, JavaScript, Java, and SQL, from interfaces and business logic to integrations, data, and deployment. My background also includes client-facing electronic-invoicing integration analysis: validating API payloads, investigating incidents, and coordinating technical resolution.
+Desarrollo productos web, móviles y APIs de punta a punta. Tengo más de 5 años de experiencia entregando software con PHP, JavaScript, SQL y Java, además de aplicaciones Android en Kotlin: desde interfaces y lógica de negocio hasta integraciones, datos y despliegue. También tengo experiencia de cara al cliente en integraciones de facturación electrónica, validando datos enviados a APIs, investigando incidencias y coordinando soluciones técnicas.
 
-Based in Lima, Peru · Open to remote and hybrid opportunities  
+Lima, Perú · Disponible para oportunidades remotas e híbridas
 [Portfolio](https://daniel349167.github.io/) · [CV](https://daniel349167.github.io/assets/Daniel-Ureta-CV-Full-Stack.pdf) · [Email](mailto:duretae@gmail.com) · [GitHub](https://github.com/Daniel349167)
 
-## Selected work
+## Proyectos destacados
 
-| Project | What it demonstrates |
+| Proyecto | Qué demuestra |
 | --- | --- |
-| [FiscalFlow](https://github.com/Daniel349167/fiscalflow-integration-platform) | Full Stack integration workflow with Spring Boot, Vue 3, PostgreSQL, idempotency, transactional outbox, retries, dead-letter handling, audit history, Testcontainers, and E2E Docker validation. |
-| [LedgerGuard](https://github.com/Daniel349167/ledgerguard-platform) | Quarkus microservices, Kafka/Redpanda, PostgreSQL, transactional outbox, idempotency, observability, Docker, and Kubernetes. |
-| [TenantFlow](https://github.com/Daniel349167/tenantflow-saas-api) | Spring Boot multi-tenant SaaS API, hexagonal architecture, Keycloak/OAuth2, RBAC, Flyway, Testcontainers, and RFC 9457 errors. |
-| [Supervisor Scheduling Engine](https://github.com/Daniel349167/supervisor-scheduling-engine) · [Live demo](https://daniel349167.github.io/supervisor-scheduling-engine/) | Constraint-based schedule generation, interactive visualization, and export workflows in React and TypeScript. |
+| [Gestión Escolar](https://github.com/Daniel349167/GestionEscolar) | Aplicación web con Angular 17, Laravel 11 y PostgreSQL para gestionar estudiantes, cursos, roles y asignaciones. |
+| [App Móvil Koha](https://github.com/Daniel349167/AppMovil-Koha) | Aplicación Android en Kotlin y Jetpack Compose para consultar y gestionar solicitudes mediante una API REST. |
+| [FiscalFlow](https://github.com/Daniel349167/fiscalflow-integration-platform) | Dashboard web Full Stack con Vue, Spring Boot y PostgreSQL para gestionar integraciones y su trazabilidad. |
+| [Supervisor Scheduling Engine](https://github.com/Daniel349167/supervisor-scheduling-engine) · [Demo](https://daniel349167.github.io/supervisor-scheduling-engine/) | Planificación visual e interacción de producto con React y TypeScript. |
 
-## Core stack
+## Stack principal
 
-`Java 17` · `Quarkus` · `Spring Boot` · `REST APIs` · `Kafka` · `PostgreSQL` · `Docker` · `Kubernetes` · `Keycloak/OAuth2` · `OpenTelemetry` · `Testcontainers` · `Vue/Nuxt` · `React` · `Angular` · `PHP/Laravel`
+`JavaScript` · `Vue/Nuxt` · `Angular` · `PHP/Laravel` · `Node.js` · `Kotlin/Android` · `APIs REST` · `PostgreSQL` · `MySQL` · `Docker` · `Git`
 
-I value explicit architecture decisions, reproducible local environments, automated tests, and documentation that explains both capabilities and tradeoffs.
+Me importan las interfaces claras, los procesos que funcionan de verdad y los entornos que otra persona puede ejecutar y continuar.
